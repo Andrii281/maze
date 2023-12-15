@@ -1,0 +1,1 @@
+export { createMazeMap } from "./create-maze-map";
